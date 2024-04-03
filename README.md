@@ -19,21 +19,57 @@ There are two main directories, based on `tkinter.ttk` and `tkinter`.
 
 ### ttk
 
-- login window
-- calculator
-- random named
+- [X] **login window**
+
+![ttk-login-window.png](./images/ttk-login-window.png)
+
+- [X] **calculator**
+
+![ttk-calculator.png](./images/ttk-calculator.png)
+
+- [X] **random named**
+
+![ttk-random-named-1.png](./images/ttk-random-named-1.png)
+
+![ttk-random-named-2.png](./images/ttk-random-named-2.png)
 
 ### tk
 
-- login window
-- calculator
-- random named
-- 2048Game
-- fish
-- GameBox
-- DoubleDragon
-- Gobang
-- ChinaChess
+- [X] **login window**
+
+![tk-login-window.png](./images/tk-login-window.png)
+
+- [X] **calculator**
+
+![tk-calculator.png](./images/tk-calculator.png)
+
+- [X] **random named**
+
+![tk-random-named.png](./images/tk-random-named.png)
+
+- [X] **2048Game**
+
+![tk-2048-game.png](./images/tk-2048-game.png)
+
+- [X] **fish**
+
+![tk-fish.png](./images/tk-fish.png)
+
+- [X] **GameBox**
+
+![tk-game-box.png](./images/tk-game-box.png)
+
+- [X] **DoubleDragon**
+
+![tk-double-dragon.png](./images/tk-double-dragon.png)
+
+- [X] **Gobang**
+
+![tk-gobang.png](./images/tk-gobang.png)
+
+- [X] **ChinaChess**
+
+![tk-china-chess.png](./images/tk-china-chess.png)
 
 ---
 

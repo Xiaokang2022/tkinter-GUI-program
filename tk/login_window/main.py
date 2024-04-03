@@ -16,7 +16,7 @@ login.resizable(0, 0)
 canvas = tk.Canvas(login, width=300, height=220)
 image_list = range(7)
 image_num = choice(image_list)
-image_file = tk.PhotoImage(file='.\\tk\\resources\\风景%s.png' % image_num)
+image_file = tk.PhotoImage(file='resources\\风景%s.png' % image_num)
 canvas.create_image(130, 40, image=image_file)
 canvas.place(x=-10, y=-10)
 # login.overrideredirect(1)                 # 去除窗口边框
